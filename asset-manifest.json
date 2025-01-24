@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Quizppreact/static/css/main.6191707c.css",
-    "main.js": "/Quizppreact/static/js/main.ecf1c4a5.js",
-    "static/media/wait.mp3": "/Quizppreact/static/media/wait.30e329da76ae665702f7.mp3",
-    "static/media/bg.jpg": "/Quizppreact/static/media/bg.c137ccd722d64133b4df.jpg",
-    "static/media/play.mp3": "/Quizppreact/static/media/play.8e5f6d1d81d4e1414b95.mp3",
-    "static/media/correct.mp3": "/Quizppreact/static/media/correct.160572d72c858155072e.mp3",
-    "static/media/wrong.mp3": "/Quizppreact/static/media/wrong.e946821894ae9b0a0d6f.mp3",
-    "index.html": "/Quizppreact/index.html",
-    "main.6191707c.css.map": "/Quizppreact/static/css/main.6191707c.css.map",
-    "main.ecf1c4a5.js.map": "/Quizppreact/static/js/main.ecf1c4a5.js.map"
+    "main.css": "/QuizAppreact/static/css/main.1c4e5e9e.css",
+    "main.js": "/QuizAppreact/static/js/main.3717980e.js",
+    "static/media/wait.mp3": "/QuizAppreact/static/media/wait.30e329da76ae665702f7.mp3",
+    "static/media/bg.jpg": "/QuizAppreact/static/media/bg.c137ccd722d64133b4df.jpg",
+    "static/media/play.mp3": "/QuizAppreact/static/media/play.8e5f6d1d81d4e1414b95.mp3",
+    "static/media/correct.mp3": "/QuizAppreact/static/media/correct.160572d72c858155072e.mp3",
+    "static/media/wrong.mp3": "/QuizAppreact/static/media/wrong.e946821894ae9b0a0d6f.mp3",
+    "index.html": "/QuizAppreact/index.html",
+    "main.1c4e5e9e.css.map": "/QuizAppreact/static/css/main.1c4e5e9e.css.map",
+    "main.3717980e.js.map": "/QuizAppreact/static/js/main.3717980e.js.map"
   },
   "entrypoints": [
-    "static/css/main.6191707c.css",
-    "static/js/main.ecf1c4a5.js"
+    "static/css/main.1c4e5e9e.css",
+    "static/js/main.3717980e.js"
   ]
 }
